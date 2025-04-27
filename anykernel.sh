@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=NoName
+kernel.string=SM6125 kernel - laurel_sprout
 do.devicecheck=1
 do.modules=0
 do.systemless=1
